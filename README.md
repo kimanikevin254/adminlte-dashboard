@@ -28,7 +28,7 @@ To run the project:
   yarn
   ```
   
-  to install depemdencies.
+  to install dependencies.
   
   ```bash
   yarn start
@@ -36,4 +36,6 @@ To run the project:
   
   to run the development server.
   
+
+- See the result in your browser on `http://localhost:3000`
   
