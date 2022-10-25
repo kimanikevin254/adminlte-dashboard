@@ -50,7 +50,7 @@ function Header() {
                             Brad Diesel
                             <span className="float-right text-sm text-danger"><i className="fas fa-star"></i></span>
                         </h3>
-                        <p className="text-sm">Creating an admin dashboard...</p>
+                        <p className="text-sm">Reminded to attend a meeting...</p>
                         <p className="text-sm text-muted"><i className="far fa-clock mr-1"></i> 4 Hours Ago</p>
                         </div>
                     </div>
